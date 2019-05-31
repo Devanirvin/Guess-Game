@@ -1,1 +1,1 @@
-# Javascript-Guess-Game
+Guess-Game
